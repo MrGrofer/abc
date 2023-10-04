@@ -1,2 +1,2 @@
 # abc
-This is my initial Git Repository
+This is my initial Git Repository.
